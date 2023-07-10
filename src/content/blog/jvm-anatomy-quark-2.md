@@ -1,7 +1,7 @@
 ---
 author: Fan Jingbo
 pubDatetime: 2022-11-06T13:00:00Z
-title: "【JVM Anatomy Quark】 #2-透明大页"
+title: "【JVM Anatomy Quark】 2-透明大页"
 postSlug: jvm-anatomy-quark-2-transparent-huge-pages
 tags:
   - Java

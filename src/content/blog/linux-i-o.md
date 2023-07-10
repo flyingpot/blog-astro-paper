@@ -1,7 +1,7 @@
 ---
 author: Fan Jingbo
 pubDatetime: 2021-12-17T16:00:00Z
-title: 【译】Linux上不同的磁盘I/O方式，我们为Scylla选择了哪种方式及其原因
+title: 【译】Linux上不同的磁盘IO方式，我们为Scylla选择了哪种方式及其原因
 postSlug: linux-io
 featured: true
 draft: false

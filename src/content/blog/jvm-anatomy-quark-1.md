@@ -1,7 +1,7 @@
 ---
 author: Fan Jingbo
 pubDatetime: 2022-10-31T01:00:00Z
-title: "【JVM Anatomy Quark】 #1-循环中的锁粗化"
+title: "【JVM Anatomy Quark】 1-循环中的锁粗化"
 postSlug: jvm-anatomy-quark-1-lock-coarsening-for-loops
 draft: false
 tags:
