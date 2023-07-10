@@ -1,0 +1,8 @@
+fragment PostParts on Post {
+  title
+  pubDatetime
+  postSlug
+  description
+  tags
+  body
+}
